@@ -1,0 +1,51 @@
+
+header {
+  padding: 200px;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.L6g-6IHXtMqZXToxq82HEQHaEf%26pid%3DApi&f=1");
+background-repeat: no-repeat;
+background-size: 500px;
+background-position: 500px;
+background-color: slategray;
+font-size: 100px;
+font-variant-position: super;
+color: maroon;
+}
+
+body {
+border-style: solid;
+border-color: green;
+  background-color: lightsteelblue;
+  padding: 10px;
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  font-size: 20px;
+  font-weight: bolder;
+
+
+}
+
+footer {
+  border-style: solid;
+  padding: 10px;
+}
+
+div {
+  border-style: solid;
+}
+
+p {
+  padding: 10px;
+}
+
+h1, h2 {
+  padding: 5px;
+}
+
+li {
+  color: maroon;
+}
+
+
+
+
+
+
